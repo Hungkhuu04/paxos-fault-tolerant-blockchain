@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "host": "127.0.0.1",
+    "port": 9101,
+    "data_dir": "data/P1"
+  },
+  {
+    "id": 2,
+    "host": "127.0.0.1",
+    "port": 9102,
+    "data_dir": "data/P2"
+  },
+  {
+    "id": 3,
+    "host": "127.0.0.1",
+    "port": 9103,
+    "data_dir": "data/P3"
+  },
+  {
+    "id": 4,
+    "host": "127.0.0.1",
+    "port": 9104,
+    "data_dir": "data/P4"
+  },
+  {
+    "id": 5,
+    "host": "127.0.0.1",
+    "port": 9105,
+    "data_dir": "data/P5"
+  }
+]
